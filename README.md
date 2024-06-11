@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋. I'm Bamboo
 
-<!--
-**GoSimplicity/GoSimplicity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a project called LinkMe.
+- 🌱 I’m currently learning golang.
+- 💬 Ask me about golang, Python
+- 📫 How to reach me: 13664854532@163.com
+- 😄 Pronouns: BamBoo
 
-Here are some ideas to get you started:
+![Bamboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoSimplicity&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoSimplicity&layout=compact&theme=tokyonight)
+
+
+[![Bamboo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GoSimplicity&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
